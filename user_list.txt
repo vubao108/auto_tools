@@ -1,0 +1,304 @@
+[user_1]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_01
+user_id = 107325123661567271694
+home_page = ''
+user_name= 01tuan01vu
+agent_string = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586
+
+[user_2]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_02
+user_id = 102373783088124067152
+home_page = ''
+user_name =  02tuan02vu
+agent_string = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+
+[user_3]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_03
+user_id = 114915959522006724592
+home_page = ''
+user_name = 03tuan03vu
+agent_string = Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+
+[user_4]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_04
+user_id = 111008628230027980613
+home_page = ''
+user_name = 04tuan04vu
+agent_string = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50
+
+
+[user_5]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_05
+user_id = 117863643023793400663
+home_page = ''
+user_name = 05tuan05vu
+agent_string = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+
+[user_6]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_06
+user_id = 105657185022054779489
+home_page = ''
+user_name = 06tuan06vu
+agent_string = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+
+
+
+[user_7]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_07
+user_id = 102272066369616081932
+home_page = ''
+user_name = 07tuan07vu
+agent_string = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393
+
+
+
+[user_8]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_08
+user_id = 111203845133976914981
+home_page = ''
+user_name = 08tuan08vu
+agent_string = AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
+[user_9]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_09
+user_id = 102171506830383730541
+home_page = ''
+user_name = 09tuan09vu
+agent_string = Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
+
+[user_10]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_10
+user_id = 118153212343863099955
+home_page = ''
+user_name = 10tuan10vu
+agent_string = Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0
+
+[user_11]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_01
+user_id = 110778526077822319450
+home_page = ''
+user_name= 11
+agent_string = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586
+
+[user_12]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_02
+user_id = 115176890716683733485
+home_page = ''
+user_name =  12
+agent_string = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+
+[user_13]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_03
+user_id = 102374377595856845025
+home_page = ''
+user_name = 13
+agent_string = Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+
+[user_14]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_04
+user_id = 117382895502911017620
+home_page = ''
+user_name = 14
+agent_string = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50
+
+
+[user_15]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_05
+user_id = 117298902648450995810
+home_page = ''
+user_name = 15
+agent_string = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+
+[user_16]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_06
+user_id = 117201982159810428775
+home_page = ''
+user_name = 16
+agent_string = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+
+
+
+[user_17]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_07
+user_id = 110877338015420921251
+home_page = ''
+user_name = 17
+agent_string = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393
+
+
+
+[user_18]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_08
+user_id = 115886142185355546065
+home_page = ''
+user_name = 18
+agent_string = AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
+[user_19]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_09
+user_id = 110095768832322253064
+home_page = ''
+user_name = 19
+agent_string = Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
+
+[user_20]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_10
+user_id = 103296425951072549125
+home_page = ''
+user_name = 20
+agent_string = Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0
+
+[user_21]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_01
+user_id = 115593145306042035137
+home_page = ''
+user_name= 21tuan21vu
+agent_string = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586
+
+[user_22]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_02
+user_id = 116821519368952181132
+home_page = ''
+user_name =  22tuan22vu
+agent_string = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+
+[user_23]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_03
+user_id = 111580344149851891333
+home_page = ''
+user_name = 23tuan23vu
+agent_string = Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+
+[user_24]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_04
+user_id = 104930975493037762862
+home_page = ''
+user_name = 24tuan24vu
+agent_string = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50
+
+
+[user_25]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_05
+user_id = 117114040323598128015
+home_page = ''
+user_name = 25tuan25vu
+agent_string = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+
+[user_26]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_06
+user_id = 105588676527110581424
+home_page = ''
+user_name = 26tuan26vu
+agent_string = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+
+
+
+[user_27]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_07
+user_id = 102169465884051297253
+home_page = ''
+user_name = 27tuan27vu
+agent_string = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393
+
+
+
+[user_28]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_08
+user_id = 117526435857925590149
+home_page = ''
+user_name = 28tuan28vu
+agent_string = AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
+[user_29]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_09
+user_id = 103227832617571717344
+home_page = ''
+user_name = 29tuan29vu
+agent_string = Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
+
+[user_30]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_10
+user_id = 101744201732450390800
+home_page = ''
+user_name = 30tuan30vu
+agent_string = Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0
+
+[user_31]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_01
+user_id = 110563764935311293898
+home_page = ''
+user_name= 31tuan31vu
+agent_string = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586
+
+[user_32]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_02
+user_id = 108260745670326439577
+home_page = ''
+user_name =  32tuan32vu
+agent_string = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+
+[user_33]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_03
+user_id = 113039384710177218553
+home_page = ''
+user_name = 33tuan33vu
+agent_string = Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+
+[user_34]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_04
+user_id = 113919171982108099653
+home_page = ''
+user_name = 34tuan34vu
+agent_string = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50
+
+
+[user_35]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_05
+user_id = 103543027653169216919
+home_page = ''
+user_name = 35tuan35vu
+agent_string = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+
+[user_36]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_06
+user_id = 111998260991372975602
+home_page = ''
+user_name = 36tuan36vu
+agent_string = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+
+
+
+[user_37]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_07
+user_id = 114020795224855966789
+home_page = ''
+user_name = 37tuan37vu
+agent_string = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393
+
+
+
+[user_38]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_08
+user_id = 101348431338239725045
+home_page = ''
+user_name = 38tuan38vu
+agent_string = AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
+[user_39]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_09
+user_id = 115545296449518401805
+home_page = ''
+user_name = 39tuan39vu
+agent_string = Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
+
+
+[user_40]
+profile_folder = C:\\Users\\1\\Desktop\\autoAll\\profileStore\\chrome_10
+user_id = 114284491624376493083
+home_page = ''
+user_name = 40tuan40vu
+agent_string = Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0
